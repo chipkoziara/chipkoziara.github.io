@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>The blog of Chip Koziara</title>
+ <link href="http://chipkoziara.com/atom.xml" rel="self"/>
+ <link href="http://chipkoziara.com"/>
+ <updated>2013-10-20T16:26:17-04:00</updated>
+ <id>http://chipkoziara.com</id>
+ <author>
+   <name>Chip Koziara</name>
+   <email>chip@chipkoziara.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Interactive Maps</title>
+   <link href="http://chipkoziara.com/posts/maps"/>
+   <updated>2013-09-02T00:00:00-04:00</updated>
+   <id>http://chipkoziara.com/posts/maps</id>
+   <content type="html">&lt;p&gt;Here are a few great interactive maps for those interested in exploring geospatial data. I&amp;rsquo;ll populate the list with more maps as I come across them:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://bklynr.com/block-by-block-brooklyns-past-and-present/&quot;&gt;Block by Block, Brooklyn’s Past and Present&lt;/a&gt; via BKLYNR&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://dev.citysdk.waag.org/buildings/&quot;&gt;Buildings in the Netherlands by year of construction&lt;/a&gt; via Waag Society&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://andrewxhill.github.io/cartodb-examples/scroll-story/pluto/#0&quot;&gt;PLUTO Data Visualizations&lt;/a&gt; via Andrew Hill. This is a collection of visualizations from NYC&amp;rsquo;s PLUTO data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://dev.citysdk.waag.org/visualisation/&quot;&gt;OpenData Globe&lt;/a&gt; via CitySDK and Waag Society. This is a 3D visualization of real time public transit and traffic trips across several European cities including Amsterdam, Helsinki and Istanbul&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.mizmay.com/2013/05/Rental-Housing-SF.html/&quot;&gt;Rent Affordability Gap in San Francisco&lt;/a&gt; via Stephanie May&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;/images/pluto.jpg&quot; alt=&quot;NYC Building Height Approximations&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The above image is an approximation of NYC&amp;rsquo;s building heights from the &lt;a href=&quot;http://andrewxhill.github.io/cartodb-examples/scroll-story/pluto/#0&quot;&gt;PLUTO Data Visualizations&lt;/a&gt; link above by Andrew Hill.&lt;/p&gt;
+
+&lt;p&gt;Last edited on 09/29/13 to include the San Francisco Rent Affordability Gap map&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cobo Center Rendering</title>
+   <link href="http://chipkoziara.com/posts/cobo"/>
+   <updated>2013-06-21T00:00:00-04:00</updated>
+   <id>http://chipkoziara.com/posts/cobo</id>
+   <content type="html">&lt;iframe class=&quot;youtube&quot; width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/E1NRu8Eb0Ok&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;Cobo Center in downtown Detroit is getting a new look. The &lt;a href=&quot;http://www.freep.com/article/20120504/BUSINESS06/205040443/Cobo-s-rebirth-delivers-business/&quot; title=&quot;Cobo&#39;s Rebirth Delivers Business&quot;&gt;$279 million renovation&lt;/a&gt; will be completed by early 2015.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m sure the extra space will be used in future North American Auto Shows but I hope the upgraded facility is utilized to its full potential year-round, especially now that events at Cobo are &lt;a href=&quot;http://www.crainsdetroit.com/article/20130620/NEWS/130629990/cobo-authority-secures-new-work-rules-with-unions-to-save-exhibitors/&quot; title=&quot;Cobo authority secures new work rules with unions to save exhibitors money&quot;&gt;cheaper for exhibitors&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update 08/14/13:&lt;/strong&gt; I was contacted by a representative from the Cobo Center and informed that the project is slated to cost $279 million instead of the $299 million listed in the Free Press article. You can check out the most recent financial statement from the Cobo Center project &lt;a href=&quot;http://starrconstand.com/drcfa/wp-content/uploads/2013/03/Financials-30September2012.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tastier Tomatoes</title>
+   <link href="http://chipkoziara.com/posts/tomatoes"/>
+   <updated>2013-02-13T00:00:00-05:00</updated>
+   <id>http://chipkoziara.com/posts/tomatoes</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://arstechnica.com/science/2013/02/we-broke-the-tomato-and-were-using-science-to-fix-it&quot;&gt;&amp;lsquo;We broke the tomato and we&amp;rsquo;re using science to fix it&amp;rsquo;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ars Technica science editor John Timmer:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;In the words of a panel at the meeting of the American Association for the Advancement of science, we &amp;ldquo;broke&amp;rdquo; the tomato by allowing the plant breeders to respond to the needs of farmers, instead of the tomato&amp;rsquo;s end-users: consumers. As a result, their breeding has produced a product that most people don&amp;rsquo;t actually enjoy eating. And that&amp;rsquo;s a public health issue, given that tomato-rich diets have been associated with a variety of beneficial effects.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;This article makes me wonder how many other agricultural products have been diluted over the years. That being said, it&amp;rsquo;s refreshing to see people try to produce quality,&lt;sup id=&#39;fn1-2013-02-13&#39;&gt;&lt;a href=&quot;#fn1-2013-02-13&quot;&gt;&lt;a href=&quot;#fn1-2013-02-13&quot;&gt;1&lt;/a&gt;&lt;/a&gt;&lt;/sup&gt; agricultural products at scale.&lt;/p&gt;
+
+&lt;p&gt;Farmer&amp;rsquo;s markets and local growers are great, but aren&amp;rsquo;t always practical.&lt;sup id=&#39;fn2-2013-02-13&#39;&gt;&lt;a href=&quot;#fn2-2013-02-13&quot;&gt;&lt;a href=&quot;#fn2-2013-02-13&amp;lt;/p&gt;&quot;&gt;2&lt;/a&gt;&lt;/a&gt;&lt;/sup&gt; If commercial growers start to care about these things, everyone will be able to enjoy tastier vegetables and fruits. The article notes that commercial growers have not been convinced to produce these tomatoes, but it&amp;rsquo;s a start.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn1-2013-02-13&quot;&gt;
+&lt;p&gt;I&#39;m not trying to say that all mass-produced agricultural products are of low quality, but there is a major difference between an heirloom tomato and the average tomato at a local grocery store.&amp;nbsp;&lt;a href=&quot;#fn1-2013-02-13&quot; class=&quot;footnoteBackLink&quot; title=&quot;Jump back to footnote 1 in the text.&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn2-2013-02-13&quot;&gt;
+&lt;p&gt;Here are a few reasons: Many farmers&#39; markets are closed during the winter; Oranges and kiwis don&#39;t grow well in northern climates (and I like oranges and kiwis); There can be supply concerns with local growers, etc.
+
+I like to buy local when I can, but it&#39;s not realistic for me to *always* buy local.&amp;nbsp;&lt;a href=&quot;#fn2-2013-02-13&quot; class=&quot;footnoteBackLink&quot; title=&quot;Jump back to footnote 2 in the text.&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Start</title>
+   <link href="http://chipkoziara.com/posts/start"/>
+   <updated>2012-10-16T16:38:00-04:00</updated>
+   <id>http://chipkoziara.com/posts/start</id>
+   <content type="html">&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;The value of an idea lies in the using of it.&amp;rdquo; - Thomas Edison&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;h1&gt;Go&lt;/h1&gt;
+
+&lt;p&gt;I intended to start writing over a year ago, taking inspiration from blogs like &lt;a href=&quot;http://daringfireball.net&quot;&gt;Daring Fireball&lt;/a&gt; and &lt;a href=&quot;http://kottke.org&quot;&gt;Kottke.org&lt;/a&gt;. I invested in a domain name and hosting service and proceeded to plan out the best blog the internet had ever seen. The site would be built on the best blogging platform and have the most aesthetically pleasing theme. The sidebar would contain a summary of my recent twitter activity and contain links to my favorite blogs. I would have a wildly popular blog on my hands within months. My plan was foolproof.&lt;/p&gt;
+
+&lt;p&gt;I launched and relaunched, installing and uninstalling blogging platforms and content management systems. This process took me several weeks, and at the end of my experimentation I had written a cumulative total of 0 words. A blog without content is as exciting as watching paint dry on a wall, no matter how great the backend of the site is or how appealing the theme looks. I set out to write but I quickly lost sight of my original goal.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s a truly beautiful thing when function and form are in perfect balance. But without function, form is meaningless. The functional elements of a project are its foundation. Foundations do not need to be gorgeous, but they do need to be solidly built. Focus on building the best possible foundation, then proceed to improve upon form.&lt;sup id=&#39;fn1-2012-10-15&#39;&gt;&lt;a href=&quot;#fn1-2012-10-15&quot;&gt;&lt;a href=&quot;#fn1-2012-10-15&quot;&gt;1&lt;/a&gt;&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;I had focused entirely on the form of my website without giving proper attention to content, the most important aspect of a blog. How could I have missed this obvious fact? I was too hung up on launching the perfect website and in the end I fell as far short of the goal as humanly possible. Instead of tweaking the form of the website for weeks, I should have been writing content. A website&amp;rsquo;s design is never final as it can be tweaked and adjusted on the fly. But I lost sight of what was important (writing!) and got caught up in the details (design) which inhibited me from starting the blog at all.&lt;/p&gt;
+
+&lt;p&gt;The first iteration doesn&amp;rsquo;t have to be perfect. In fact, it won&amp;rsquo;t be perfect. But without a first iteration, you will never have a tangible product. And without a tangible product, you&amp;rsquo;ll never realize your ideas.&lt;/p&gt;
+
+&lt;h1&gt;E.g.&lt;/h1&gt;
+
+&lt;p&gt;I&amp;rsquo;d like to illustrate my point with a brief retelling of the Instagram story.&lt;/p&gt;
+
+&lt;p&gt;In 2010 Kevin Systrom and Mike Krieger launched Burbn, a Foursquare competitor that combined location and photo sharing. The service never attracted more than a few hundred users, but the few individuals that used it raved about the photo sharing feature. Systrom and Krieger took notice and relaunched the application as Instagram, building upon the photo sharing elements of Burbn. Two years later Facebook swooped in and purchased Instagram for a cool $1 billion.&lt;sup id=&#39;fn2-2012-10-15&#39;&gt;&lt;a href=&quot;#fn2-2012-10-15&quot;&gt;&lt;a href=&quot;#fn2-2012-10-15&quot;&gt;2&lt;/a&gt;&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Burbn wasn&amp;rsquo;t a perfect product when it initially launched. Foursquare had many more features, users and funding   but Systrom and Krieger executed on their idea despite those factors. If Systrom and Krieger waited to develop more features for Burbn so it could compete more evenly with Foursquare, Instagram would likely not exist.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s okay to pivot. It&amp;rsquo;s okay to fail. You don&amp;rsquo;t need every feature ready to go from Day 1. Success can only be achieved when ideas are acted upon.&lt;/p&gt;
+
+&lt;h1&gt;The horizon&lt;/h1&gt;
+
+&lt;p&gt;David Kelley, the founder of IDEO, believes in &amp;ldquo;failing faster&amp;rdquo; and I plan on employing that strategy with this blog. I&amp;rsquo;ll be experimenting with different post formats, lengths and layouts so don&amp;rsquo;t expect any semblance of consistency in the near future. I&amp;rsquo;m going to be writing primarily about the intersection of technology and business, although other topics that pique my interest will find their way into the blog too.&lt;/p&gt;
+
+&lt;p&gt;The site&amp;rsquo;s look and feel is subject to change, but I won&amp;rsquo;t be doing much along those lines for a few weeks while I focus on creating content.&lt;sup id=&#39;fn3-2012-10-15&#39;&gt;&lt;a href=&quot;#fn3-2012-10-15&quot;&gt;&lt;a href=&quot;#fn3-2012-10-15&amp;lt;/p&gt;&quot;&gt;3&lt;/a&gt;&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn1-2012-10-15&quot;&gt;
+&lt;p&gt;There are times when function is constrained by form. For example, the iPhone 5 is constrained by its physical size - there are only so many components that can fit inside the device. However, I would argue that the iPhone&#39;s functional elements are more important than its form factor. If the iPhone offered no additional functionality over a feature phone, it would not be a wildly successful product despite it&#39;s form factor.&amp;nbsp;&lt;a href=&quot;#fn1-2012-10-15&quot;  class=&quot;footnoteBackLink&quot;  title=&quot;Jump back to footnote 1 in the text.&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn2-2012-10-15&quot;&gt;
+&lt;p&gt;I&#39;m not comparing my blog to Instagram. However, if anyone wants to purchase the chipkoziara.com blog network for $1 billion I&#39;m all ears.
+&lt;a href=&quot;#fn2-2012-10-15&quot;  class=&#39;footnoteBackLink&#39;  title=&quot;Jump back to footnote 2 in the text.&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn3-2012-10-15&quot;&gt;
+&lt;p&gt;I&#39;ve learned my lesson.
+&lt;a href=&quot;#fn3-2012-10-15&quot;  class=&#39;footnoteBackLink&#39;  title=&quot;Jump back to footnote 3 in the text.&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+
+
+</content>
+ </entry>
+ 
+ 
+</feed>
